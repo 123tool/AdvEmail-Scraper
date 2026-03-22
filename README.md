@@ -10,5 +10,12 @@
 
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/username-anda/AdvEmail-Scraper-Pro.git](https://github.com/username-anda/AdvEmail-Scraper-Pro.git)
-   cd AdvEmail-Scraper-Pro
+   git clone [https://github.com/123tool/AdvEmail-Scraper.git](https://github.com/123tool/AdvEmail-Scraper.git)
+   cd AdvEmail-Scraper
+
+2. **Instal Library**
+```bash
+pip install -r requirements.txt
+Instal Browser Engine
+playwright install chromium
+python scraper.py
